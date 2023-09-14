@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MPP_6": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\\\Users\\\\huber\\\\Desktop\\\\GitRepos\\\\NAI\\\\MPP_6\\\\MPP_6\\\\plecak.txt"
+    }
+  }
+}

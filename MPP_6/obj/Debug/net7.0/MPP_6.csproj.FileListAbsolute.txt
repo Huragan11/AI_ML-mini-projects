@@ -1,0 +1,15 @@
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_6\MPP_6\bin\Debug\net7.0\MPP_6.exe
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_6\MPP_6\bin\Debug\net7.0\MPP_6.deps.json
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_6\MPP_6\bin\Debug\net7.0\MPP_6.runtimeconfig.json
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_6\MPP_6\bin\Debug\net7.0\MPP_6.dll
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_6\MPP_6\bin\Debug\net7.0\MPP_6.pdb
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_6\MPP_6\obj\Debug\net7.0\MPP_6.csproj.AssemblyReference.cache
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_6\MPP_6\obj\Debug\net7.0\MPP_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_6\MPP_6\obj\Debug\net7.0\MPP_6.AssemblyInfoInputs.cache
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_6\MPP_6\obj\Debug\net7.0\MPP_6.AssemblyInfo.cs
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_6\MPP_6\obj\Debug\net7.0\MPP_6.csproj.CoreCompileInputs.cache
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_6\MPP_6\obj\Debug\net7.0\MPP_6.dll
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_6\MPP_6\obj\Debug\net7.0\refint\MPP_6.dll
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_6\MPP_6\obj\Debug\net7.0\MPP_6.pdb
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_6\MPP_6\obj\Debug\net7.0\MPP_6.genruntimeconfig.cache
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_6\MPP_6\obj\Debug\net7.0\ref\MPP_6.dll
