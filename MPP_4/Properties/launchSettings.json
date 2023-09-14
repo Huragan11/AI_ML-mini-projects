@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MPP_4": {
+      "commandName": "Project",
+      "commandLineArgs": "4\r\nC:\\Users\\huber\\Desktop\\GitRepos\\NAI\\MPP_4\\MPP_4\\test.csv"
+    }
+  }
+}
