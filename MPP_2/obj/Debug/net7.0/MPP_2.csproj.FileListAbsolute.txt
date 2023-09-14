@@ -1,0 +1,15 @@
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_2\MPP_2\bin\Debug\net7.0\MPP_2.exe
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_2\MPP_2\bin\Debug\net7.0\MPP_2.deps.json
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_2\MPP_2\bin\Debug\net7.0\MPP_2.runtimeconfig.json
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_2\MPP_2\bin\Debug\net7.0\MPP_2.dll
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_2\MPP_2\bin\Debug\net7.0\MPP_2.pdb
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_2\MPP_2\obj\Debug\net7.0\MPP_2.csproj.AssemblyReference.cache
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_2\MPP_2\obj\Debug\net7.0\MPP_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_2\MPP_2\obj\Debug\net7.0\MPP_2.AssemblyInfoInputs.cache
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_2\MPP_2\obj\Debug\net7.0\MPP_2.AssemblyInfo.cs
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_2\MPP_2\obj\Debug\net7.0\MPP_2.csproj.CoreCompileInputs.cache
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_2\MPP_2\obj\Debug\net7.0\MPP_2.dll
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_2\MPP_2\obj\Debug\net7.0\refint\MPP_2.dll
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_2\MPP_2\obj\Debug\net7.0\MPP_2.pdb
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_2\MPP_2\obj\Debug\net7.0\MPP_2.genruntimeconfig.cache
+C:\Users\huber\Desktop\GitRepos\NAI\MPP_2\MPP_2\obj\Debug\net7.0\ref\MPP_2.dll
